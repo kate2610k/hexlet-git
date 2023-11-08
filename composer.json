@@ -1,0 +1,15 @@
+{
+    "name": "kate2610k/hexlet-git",
+    "autoload": {
+        "psr-4": {
+            "Kate2610k\\HexletGit\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "kate2610k",
+            "email": "ekaterinakarpova2610@gmail.com"
+        }
+    ],
+    "require": {}
+}
